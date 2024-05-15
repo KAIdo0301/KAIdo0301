@@ -11,3 +11,4 @@
 - 😄 代詞: 他/他
 - ⚡ 趣事: 我非常喜歡藍玫瑰，並且是一個夜貓子型人。
 -->
+<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
